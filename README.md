@@ -1,4 +1,10 @@
-### Hi there 👋
+### HOLA ovo
+
+Interested in front-end, such as Vue3.
+Now working on NodeJS app, and hexo blog.
+Feel free in coding!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcn3388)](https://github.com/kcn3388/github-readme-stats)
 
 <!--
 **kcn3388/kcn3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
