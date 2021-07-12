@@ -1,26 +1,26 @@
-#### 关于我 Who am I
+####  Who am I
 
-欢迎来到我的博客, 我是<b style="color: #42d2ca"> **幽梦** </b>, 
-刚入门的小菜鸡一枚，请多指教ovo
+Welcome! Here is <b style="color: #42d2ca"> **kcn3388** </b>, 
 
-FGO & 少前重度玩家
+Newbee in coding ovo.
 
-FGO目前厨北斋
+Hard core player of Fate/go and Girls' Frontline
 
-北斋她有辣么好ovo
+Now liking Hokusai in Fate/go
+
+ovo
 
 <details>
-  <summary>社死警告</summary>
+  <summary>Image Warning</summary>
   
   ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/default-cover.jpg)
   
 </details>
 
-少前单推狗子ovo
-战术突击犬!
+Liking SopII in Girls; Frontline ovo
 
 <details>
-  <summary>社死警告</summary>
+  <summary>Image Warning</summary>
   
   ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sop.jpg)
   
@@ -28,27 +28,27 @@ FGO目前厨北斋
   
 </details>
 
-#### 开发装备 Development Gears
+#### Development Gears
 
-+ 硬件：
++ HardWares：
   + CPU: AMD R5 3600
   + GPU: GALAX RTX 2060 Super HOF
-  + 内存：GALAX BOOMSTAR DDR4 8G * 4
-  + 主板：GIGABYTE X570 AORUS PRO WIFI
-  + 散热：雅浚 G3
-  + 电源：振华 冰山金蝶 HX480W
-  + 硬盘：
+  + RAM：GALAX BOOMSTAR DDR4 8G * 4
+  + MotherBoard：GIGABYTE X570 AORUS PRO WIFI
+  + Radiator：ProArtist G3
+  + Power：SUPER FLOWER HX480W
+  + HardDrive：
     + SN750 1T
     + SN750 500G
-    + 希捷 酷鱼 ST2000DM005 2T
-    + 希捷 酷狼 ST4000VN008 4T
-+ 系统：Windows 10 20H2
+    + Seagate ST2000DM005 2T
+    + Seagate ST4000VN008 4T
++ System：Windows 10 20H2
 + IDEs: 
   + Jetbrain IDEs
   + Visual Studio
   + QT Creator
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcn3388)](https://github.com/kcn3388/github-readme-stats)
+<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=kcn3388&show_icons=true&theme=vue&hide_border=true">
 
 <!--
 **kcn3388/kcn3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
