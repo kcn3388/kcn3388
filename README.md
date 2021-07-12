@@ -1,5 +1,7 @@
 ####  Who am I
 
+<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=kcn3388&show_icons=true&theme=vue&hide_border=true">
+
 Welcome! Here is <b style="color: #42d2ca"> **kcn3388** </b>, 
 
 Newbee in coding ovo.
@@ -8,19 +10,10 @@ Hard core player of Fate/go and Girls' Frontline
 
 Now liking Hokusai in Fate/go
 
-ovo
-
 <details>
   <summary>Image Warning</summary>
   
   ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/default-cover.jpg)
-  
-</details>
-
-Liking SopII in Girls; Frontline ovo
-
-<details>
-  <summary>Image Warning</summary>
   
   ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sop.jpg)
   
@@ -47,8 +40,6 @@ Liking SopII in Girls; Frontline ovo
   + Jetbrain IDEs
   + Visual Studio
   + QT Creator
-
-<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=kcn3388&show_icons=true&theme=vue&hide_border=true">
 
 <!--
 **kcn3388/kcn3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
