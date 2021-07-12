@@ -1,22 +1,3 @@
-<link rel="stylesheet" href="//res.kcn3388.club/hexo-theme-obsidian/src/css/font_bili/iconfont.css">
-<link rel="stylesheet" href="//res.kcn3388.club/hexo-theme-obsidian/src/css/font_page/iconfont.css">
-<div class="my-links">
-  <a class="gradient-text" href="https://github.com/kcn3388" target="_blank" rel="noopener"><span class=" iconfont icon-github"></span></a>
-  <a class="gradient-text" href="https://twitter.com/kcn3388" target="_blank" rel="noopener"><span class=" iconfont icon-twitter"></span></a>
-  <a class="gradient-text" href="https://space.bilibili.com/3789181" target="_blank" rel="noopener"><span class=" iconfont icon-bilibili"></span></a>
-</div>
-
-<style>
-  .my-links {display: flex; align-content: flex-start; margin-top: 30px;}
-  .my-links a {display: flex; color: #000; padding: 2px 10px;border-bottom:none !important;}
-  .my-links a span {font-size: 28px;}
-</style>
-
-#### What's new?
-
-<div id="dailyplayer"></div>
-<script src="https://res.kcn3388.club/hexo-theme-obsidian/src/js/recommend.js"></script>
-
 #### 关于我 Who am I
 
 欢迎来到我的博客, 我是<b style="color: #42d2ca"> **幽梦** </b>, 
@@ -25,12 +6,27 @@
 FGO & 少前重度玩家
 
 FGO目前厨北斋
+
 北斋她有辣么好ovo
-![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/default-cover.jpg)
+
+<details>
+  <summary>社死警告</summary>
+  
+  ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/default-cover.jpg)
+  
+</details>
+
 少前单推狗子ovo
 战术突击犬!
-![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sop.jpg)
-![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sopjr.jpg)
+
+<details>
+  <summary>社死警告</summary>
+  
+  ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sop.jpg)
+  
+  ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sopjr.jpg)
+  
+</details>
 
 #### 开发装备 Development Gears
 
