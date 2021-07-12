@@ -20,10 +20,11 @@ Now liking Hokusai in Fate/go
 </details>
 
 And SopII in Girls' Frontline
-<details>
-  <summary>Image Warning</summary>
 
 ![image](https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png)
+
+<details>
+  <summary>Image Warning</summary>
   
   ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sop.jpg)
   
