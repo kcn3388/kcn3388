@@ -8,9 +8,10 @@ Newbee in coding.
 
 Hard core player of Fate/go and Girls' Frontline
 
+<img align="right" width="50px" src="https://user-images.githubusercontent.com/25716090/125243258-6e110580-e320-11eb-9d16-946f5f5a988e.png">
 Now liking Hokusai in Fate/go
 
-![image](https://user-images.githubusercontent.com/25716090/125243258-6e110580-e320-11eb-9d16-946f5f5a988e.png)
+<!-- ![image](https://user-images.githubusercontent.com/25716090/125243258-6e110580-e320-11eb-9d16-946f5f5a988e.png) -->
 
 <details>
   <summary>Image Warning</summary>
@@ -19,9 +20,10 @@ Now liking Hokusai in Fate/go
   
 </details>
 
+<img align="right" width="50px" src="https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png">
 And SopII in Girls' Frontline
 
-![image](https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png)
+<!-- ![image](https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png) -->
 
 <details>
   <summary>Image Warning</summary>
