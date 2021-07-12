@@ -44,8 +44,8 @@ And SopII in Girls' Frontline
   + Radiator：ProArtist G3
   + Power：SUPER FLOWER HX480W
   + HardDrive：
-    + SN750 1T
-    + SN750 500G
+    + Western Digital SN750 1T
+    + Western Digital SN750 500G
     + Seagate ST2000DM005 2T
     + Seagate ST4000VN008 4T
 + System：Windows 10 20H2
