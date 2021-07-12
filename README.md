@@ -4,9 +4,12 @@
 
 Welcome! Here is <b style="color: #42d2ca"> **kcn3388** </b>, 
 
-Newbee in coding ovo.
+Newbee in coding.
 
 Hard core player of Fate/go and Girls' Frontline
+
+![image](https://user-images.githubusercontent.com/25716090/125243258-6e110580-e320-11eb-9d16-946f5f5a988e.png)
+![image](https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png)
 
 Now liking Hokusai in Fate/go
 
