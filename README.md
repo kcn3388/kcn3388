@@ -41,12 +41,12 @@ And SopII in Girls' Frontline
 #### Development Gears
 
 + HardWares：
-  + CPU: AMD R5 3600
+  + CPU: AMD R7 5800X
   + GPU: GALAX RTX 2060 Super HOF
   + RAM：GALAX BOOMSTAR DDR4 8G * 4
   + MotherBoard：GIGABYTE X570 AORUS PRO WIFI
-  + Radiator：ProArtist G3
-  + Power：SUPER FLOWER HX480W
+  + Radiator：Phanteks GLACIER ONE 360MP
+  + Power：Segotep GP950G PRO FULL MODULAR
   + HardDrive：
     + Western Digital SN750 1T
     + Western Digital SN750 500G
