@@ -1,7 +1,7 @@
 ####  Who am I
 
 <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=kcn3388&show_icons=true&theme=vue&hide_border=true">
-<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcn3388&&show_icons=true&theme=tokyonight&hide_border=true">
+<img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcn3388&&show_icons=true&theme=vue>
 
 Welcome! Here is <b style="color: #42d2ca"> **kcn3388** </b>, Otaku desu(
 
