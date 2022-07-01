@@ -43,7 +43,7 @@ And SopII in Girls' Frontline
 
 + HardWares：
   + CPU: AMD R7 5800X
-  + GPU: GALAX RTX 2060 Super HOF
+  + GPU: GALAX BOOMSTAR 3070Ti OC
   + RAM：GALAX BOOMSTAR DDR4 8G * 4
   + MotherBoard：GIGABYTE X570 AORUS PRO WIFI
   + Radiator：Phanteks GLACIER ONE 360MP
@@ -52,7 +52,7 @@ And SopII in Girls' Frontline
     + Western Digital SN750 1T
     + Western Digital SN750 500G
     + Seagate ST2000DM005 2T
-    + Seagate ST4000VN008 4T
+    + Seagate ST4000VN008 4T * 2
 + System：Windows 10 20H2
 + IDEs: 
   + Jetbrain IDEs
