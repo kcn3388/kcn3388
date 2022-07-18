@@ -43,16 +43,17 @@ And SopII in Girls' Frontline
 
 + HardWares：
   + CPU: AMD R7 5800X
-  + GPU: GALAX BOOMSTAR 3070Ti OC
+  + GPU: GALAX BOOMSTAR 3080 MAX OC
   + RAM：GALAX BOOMSTAR DDR4 8G * 4
   + MotherBoard：GIGABYTE X570 AORUS PRO WIFI
   + Radiator：Phanteks GLACIER ONE 360MP
   + Power：Segotep GP950G PRO FULL MODULAR
   + HardDrive：
-    + Western Digital SN750 1T
-    + Western Digital SN750 500G
-    + Seagate ST2000DM005 2T
-    + Seagate ST4000VN008 4T * 2
+    + Western Digital SN750 WDS100T3X0C-00SJG0 1T
+    + Western Digital SN750 WDS500g3X0C-00SJG0 500G
+    + Seagate Barracuda ST2000DM005-2CW102 2T
+    + Seagate IronWolf ST4000VN008-2DR166 4T
+    + Seagate SkyHawk ST4000VX007-2DT166 4T
 + System：Windows 10 20H2
 + IDEs: 
   + Jetbrain IDEs
