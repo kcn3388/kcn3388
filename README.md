@@ -69,6 +69,9 @@ And SopII in Girls' Frontline
   + Visual Studio
   + QT Creator
 
+#### Working Now
+Artificial Intelligency and Deep Learning in GNSS, Web Front-End designer, AI algorithm designer.
+
 <!--
 **kcn3388/kcn3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
