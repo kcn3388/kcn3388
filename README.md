@@ -22,7 +22,7 @@ Now liking Hokusai in Fate/go
 <details>
   <summary>Image Warning</summary>
   
-  ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/default-cover.jpg)
+  ![](./北斋.jpg)
   
 </details>
 
@@ -33,9 +33,9 @@ And SopII in Girls' Frontline
 <details>
   <summary>Image Warning</summary>
   
-  ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sop.jpg)
+  ![](./sop.jpg)
   
-  ![](https://res.kcn3388.club/hexo-theme-obsidian/src/img/sopjr.jpg)
+  ![](./sopjr.jpg)
   
 </details>
 
