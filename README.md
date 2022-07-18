@@ -31,7 +31,9 @@ Melusine in Fate/go
 <details>
   <summary>Image Warning</summary>
   
-  ![](./北斋.jpg)
+  ![](https://mysql.kcn3388.com/hexo-theme-obsidian/src/img/Melusine1.jpeg)
+  ![](https://mysql.kcn3388.com/hexo-theme-obsidian/src/img/Melusine2.jpeg) ![](https://mysql.kcn3388.com/hexo-theme-obsidian/src/img/Melusine3.jpeg)
+
   
 </details>
 
