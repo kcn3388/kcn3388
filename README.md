@@ -26,6 +26,15 @@ Now liking Hokusai in Fate/go
   
 </details>
 
+Melusine in Fate/go
+
+<details>
+  <summary>Image Warning</summary>
+  
+  ![](./北斋.jpg)
+  
+</details>
+
 And SopII in Girls' Frontline
 
 <!-- ![image](https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png) -->
