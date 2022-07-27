@@ -9,15 +9,13 @@ Newbee in coding.
 
 [✨Blog✨](https://obsidian.kcn3388.club)
 
-[✨OneDrive✨](https://onedrive.kcn3388.club)
+[✨Cloudreve✨](https://cloudreve.kcn3388.club)
 
 Hard core player of Fate/go and Girls' Frontline
 
 <img width="50px" src="https://user-images.githubusercontent.com/25716090/125243258-6e110580-e320-11eb-9d16-946f5f5a988e.png"><img width="50px" src="https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png">
 
 Now liking Hokusai in Fate/go
-
-<!-- ![image](https://user-images.githubusercontent.com/25716090/125243258-6e110580-e320-11eb-9d16-946f5f5a988e.png) -->
 
 <details>
   <summary>Image Warning</summary>
@@ -39,8 +37,6 @@ Melusine in Fate/go
 
 And SopII in Girls' Frontline
 
-<!-- ![image](https://user-images.githubusercontent.com/25716090/125243290-779a6d80-e320-11eb-9df2-2a30e29476c5.png) -->
-
 <details>
   <summary>Image Warning</summary>
   
@@ -55,7 +51,7 @@ And SopII in Girls' Frontline
 + HardWares：
   + CPU: AMD R7 5800X
   + GPU: GALAX BOOMSTAR 3080 MAX OC
-  + RAM：GALAX BOOMSTAR DDR4 8G * 4
+  + RAM：GALAX HOF Pro 4000MHz DDR4 16G * 4
   + MotherBoard：GIGABYTE X570 AORUS PRO WIFI
   + Radiator：Phanteks GLACIER ONE 360MP
   + Power：Segotep GP950G PRO FULL MODULAR
