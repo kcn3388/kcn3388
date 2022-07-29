@@ -1,8 +1,4 @@
-### You are the No.
-
-![Visitor Count](https://profile-counter.glitch.me/kcn3388/count.svg)
-
-### visitor to this page!
+### You are the No. ![Visitor Count](https://profile-counter.glitch.me/kcn3388/count.svg) visitor to this page!
 
 ####  Who am I
 
