@@ -7,6 +7,10 @@
 
 Welcome! Here is <b style="color: #42d2ca"> **kcn3388** </b>, Otaku desu(
 
+Follow me if my repo help you somehow!
+
+<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+
 Newbee in coding.
 
 [✨Blog✨](https://obsidian.kcn3388.club)
