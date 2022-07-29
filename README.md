@@ -1,3 +1,9 @@
+### You are the No.
+
+![Visitor Count](https://profile-counter.glitch.me/kcn3388/count.svg)
+
+### visitor to this page!
+
 ####  Who am I
 
 <img align="right" alt="youlookwhat's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=kcn3388&show_icons=true&theme=vue&hide_border=true">
