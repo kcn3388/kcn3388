@@ -13,7 +13,7 @@ Newbee in coding.
 
 [✨Blog✨](https://kcn3388.club)
 
-[✨OLAINDEX✨](https://onedrive.kcn3388.club)
+[✨OLAINDEX✨](https://olaindex.kcn3388.club)
 
 [✨Cloudreve✨](https://cloudreve.kcn3388.club)
 
