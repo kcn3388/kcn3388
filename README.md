@@ -58,7 +58,7 @@ And SopII in Girls' Frontline
   + CPU: AMD R7 5800X
   + GPU: GALAX BOOMSTAR 3080 MAX OC
   + RAM：GALAX HOF Pro 4000MHz DDR4 16G * 4
-  + MotherBoard：GIGABYTE X570 AORUS PRO WIFI
+  + MotherBoard：ROG STRIX Z690-A GAMING WIFI D4
   + Radiator：Phanteks GLACIER ONE 360MP
   + Power：Segotep GP950G PRO FULL MODULAR
   + HardDrive：
