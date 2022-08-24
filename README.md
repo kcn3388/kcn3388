@@ -55,7 +55,7 @@ And SopII in Girls' Frontline
 #### Development Gears
 
 + HardWares：
-  + CPU: AMD R7 5800X
+  + CPU: Intel i7 12700KF
   + GPU: GALAX BOOMSTAR 3080 MAX OC
   + RAM：GALAX HOF Pro 4000MHz DDR4 16G * 4
   + MotherBoard：ROG STRIX Z690-A GAMING WIFI D4
