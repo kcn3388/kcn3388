@@ -55,7 +55,7 @@ And SopII in Girls' Frontline
 #### Development Gears
 
 + HardWares：
-  + CPU: Intel i7 12700KF
+  + CPU: Intel i7 13700K
   + GPU: GALAX BOOMSTAR 3080 MAX OC
   + RAM：GALAX HOF Pro 4000MHz DDR4 16G * 4
   + MotherBoard：ROG STRIX Z690-A GAMING WIFI D4
@@ -64,6 +64,7 @@ And SopII in Girls' Frontline
   + HardDrive：
     + Western Digital SN750 WDS100T3X0C-00SJG0 1T
     + Western Digital SN750 WDS500g3X0C-00SJG0 500G
+    + Zhitai TiPRO7000 2T
     + Seagate Exos X18 ST16000NM0D0J-2TW103 16T
     + Seagate IronWolf ST4000VN008-2DR166 4T
     + Seagate SkyHawk ST4000VX007-2DT166 4T
