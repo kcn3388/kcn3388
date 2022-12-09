@@ -68,7 +68,7 @@ And SopII in Girls' Frontline
     + Seagate Exos X18 ST16000NM0D0J-2TW103 16T
     + Seagate IronWolf ST4000VN008-2DR166 4T
     + Seagate SkyHawk ST4000VX007-2DT166 4T
-+ System：Windows 10 20H2
++ System：Windows 10
 + IDEs: 
   + Jetbrain IDEs
   + Visual Studio
