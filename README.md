@@ -56,18 +56,18 @@ And SopII in Girls' Frontline
 
 + HardWares：
   + CPU: Intel i7 13700K
-  + GPU: GALAX BOOMSTAR 3080 MAX OC
-  + RAM：GALAX HOF Pro 4000MHz DDR4 16G * 4
+  + GPU: GALAX RTX 4090 BOOMSTAR OC
+  + RAM：GALAX HOF Pro 4000MHz DDR4 C16 16G * 4
   + MotherBoard：ROG STRIX Z690-A GAMING WIFI D4
-  + Radiator：Phanteks GLACIER ONE 360MP
-  + Power：Segotep GP950G PRO FULL MODULAR
+  + Radiator：VALKYRIE E360
+  + Power：Phanteks AMP GH 850W FULL MODULAR
   + HardDrive：
     + Western Digital SN750 WDS100T3X0C-00SJG0 1T
-    + Western Digital SN750 WDS500g3X0C-00SJG0 500G
+    + Zhitai TiPlus5000 1T
     + Zhitai TiPRO7000 2T
-    + Seagate Exos X18 ST16000NM0D0J-2TW103 16T
+    + Seagate Exos X18 ST16000NM000J-2TW103 16T
+    + Seagate Exos X20 ST20000NM007D-3DJ103 20T
     + Seagate IronWolf ST4000VN008-2DR166 4T
-    + Seagate SkyHawk ST4000VX007-2DT166 4T
 + System：Windows 10
 + IDEs: 
   + Jetbrain IDEs
